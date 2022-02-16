@@ -11,6 +11,8 @@ def showMenu():
 def showReportMenu():
     print('Please Choose An Option :')
     print('1. By Today')
+    print('2. By Week')
+#     print('2. Show All Data')
     print('0. Exit')
     
 def showMenuOrder():
