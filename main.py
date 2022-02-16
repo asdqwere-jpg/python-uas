@@ -13,6 +13,7 @@ def showReportMenu():
     print('1. By Today')
     print('2. This Week')
     print('3. This Month')
+    print('4. This Year')
 #     print('2. Show All Data')
     print('0. Exit')
     
