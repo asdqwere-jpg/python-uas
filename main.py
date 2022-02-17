@@ -14,8 +14,9 @@ def showReportMenu():
     print('2. This Week')
     print('3. This Month')
     print('4. This Year')
-#     print('2. Show All Data')
-    print('0. Exit')
+    print('5. By Customer\'s Name')
+    print('6. By Menu\'s Name')
+    print('0. Exit To Main Menu')
     
 def showMenuOrder():
     import ast
