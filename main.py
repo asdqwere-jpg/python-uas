@@ -1,3 +1,9 @@
+def showFooter(character, number):
+    import time
+    print()
+    print('Generated On :', time.strftime('%d-%m-%Y'))
+    print(character * number)
+    
 def getTodayDate():
     from datetime import date
     return date.today().strftime("%d/%m/%Y")
